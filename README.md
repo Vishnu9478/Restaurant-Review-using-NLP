@@ -1,4 +1,4 @@
-# ML-Project
+# Sentimental Analysis of Restaurant Review
 This is my First  Project at 1stop.ai using machine learning.
 
 **Restaurant-Reviews-using-NLP**
